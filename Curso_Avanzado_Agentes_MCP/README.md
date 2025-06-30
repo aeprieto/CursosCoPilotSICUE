@@ -146,7 +146,7 @@ Este curso se basa en la filosofía de **"aprender haciendo"** donde cada día i
 ### 🔧 Herramientas y Templates:
 - **Configuraciones Docker** para desarrollo
 - **Scripts de deployment** automático
-- **Templates de integração** con sistemas universitarios
+- **Templates de integración** con sistemas universitarios
 - **Ejemplos de testing** y debugging
 
 ## 🔒 Consideraciones de Seguridad y Compliance
@@ -163,19 +163,19 @@ Este curso se basa en la filosofía de **"aprender haciendo"** donde cada día i
 - Integración con Active Directory/LDAP
 - Backup y recuperación de datos
 
-## 🌐 Recursos de Soporte Avanzado
+## 🌐 Recursos de Soporte
 
 ### Durante el Curso:
-- **Office Hours Técnicas**: 2h semanales con el instructor
-- **Peer Programming**: Sesiones colaborativas entre participantes
-- **Slack Workspace**: Canal dedicado con archivos y discusiones
-- **Repository Privado**: Código compartido y versionado
+- **Documentación completa**: Guías detalladas incluidas en cada día
+- **Ejemplos ejecutables**: Código funcional para cada concepto
+- **Sesiones colaborativas**: Trabajo en equipo y pair programming
+- **Repositorio GitHub**: Acceso completo al código fuente
 
 ### Post-Curso:
-- **Comunidad de Práctica**: Grupo permanente de alumni
-- **Sesiones de Follow-up**: Reuniones trimestrales
-- **Consultoría Técnica**: 5 horas de soporte personalizado
-- **Updates**: Información sobre nuevas versiones y técnicas
+- **Código abierto**: Todos los ejemplos disponibles permanentemente
+- **GitHub Issues**: Para dudas técnicas y mejoras
+- **Actualizaciones**: Mejoras continuas del material
+- **Comunidad**: Desarrollo colaborativo del contenido
 
 ## 🎖️ Completación del Curso
 
@@ -214,17 +214,13 @@ Al completar el curso, los participantes podrán construir e implementar sistema
 
 ---
 
-## 📞 Información de Contacto
+## 📞 Soporte Técnico
 
-**Instructor Principal**: [Nombre]
-- Email: [correo@universidad.edu]
-- Slack: @instructor
-- Office Hours: Lunes y Miércoles 15:00-17:00
-
-**Soporte Técnico**: [Equipo SI]
-- Email: [soporte-curso@universidad.edu]
-- Teléfono: [ext. XXXX]
+- **Documentación**: Guías completas en cada carpeta `diaX/`
+- **Código fuente**: Ejemplos ejecutables y comentados
+- **Issues**: [GitHub Issues](https://github.com/aeprieto/CursosCoPilotSICUE/issues) para dudas técnicas
+- **Contribuciones**: [GitHub Discussions](https://github.com/aeprieto/CursosCoPIlotSICUE/discussions)
 
 ---
 
-*Curso diseñado específicamente para profesionales del Servicio de Informática que buscan implementar soluciones avanzadas de IA en entornos universitarios.*
+*Curso diseñado para profesionales que buscan implementar soluciones avanzadas de IA con MCP - Actualizado diciembre 2024*
