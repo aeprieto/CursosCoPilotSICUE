@@ -1,0 +1,81 @@
+# Archivos temporales y caché
+.DS_Store
+.vscode/settings.json
+*.tmp
+*.temp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.env
+.venv
+
+# IDEs
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Node.js (si se usa)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Docker
+.dockerignore
+
+# Jupyter Notebooks (checkpoints)
+.ipynb_checkpoints/
+
+# Configuraciones locales
+config.local.json
+.env.local
+
+# Archivos de backup
+*.bak
+*.backup
+
+# Claves y secretos (nunca incluir)
+*.key
+*.pem
+secrets/
+.secrets
+
+# Archivos de base de datos locales
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos de sistema
+Thumbs.db
+ehthumbs.db
