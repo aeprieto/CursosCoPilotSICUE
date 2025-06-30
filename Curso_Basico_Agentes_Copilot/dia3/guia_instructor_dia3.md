@@ -3,26 +3,21 @@
 ## ⏰ Cronograma Detallado
 
 | Horario | Actividad | Duración | Tipo | Material |
-|---------|-----------|----------|------|----------|
+|---|---|---|---|---|
 | 09:00-09:15 | Repaso días anteriores y dudas | 15min | Plenario | `repaso_dias_anteriores.md` |
-| 09:15-10:45 | Introducción a agentes conversacionales | 1.5h | Teórico-Práctico | `introduccion_agentes_conversacionales.md` |
-| 10:45-11:00 | **DESCANSO** | 15min | - | - |
-| 11:00-12:30 | LangChain básico y primer agente | 1.5h | Práctico | `langchain_basico.md` |
-| 12:30-13:30 | **ALMUERZO** | 1h | - | - |
-| 13:30-15:00 | Integración con APIs REST | 1.5h | Práctico | `integracion_apis.md` |
-| 15:00-15:15 | **DESCANSO** | 15min | - | - |
-| 15:15-16:45 | Desarrollo del primer agente conversacional | 1.5h | Proyecto | `primer_agente_conversacional.md` |
-| 16:45-17:00 | Demo y preparación día 4 | 15min | Presentación | `demo_dia3.md` |
+| 09:15-11:15 | Introducción a agentes conversacionales y LangChain | 2h | Teórico-Práctico | `introduccion_agentes_conversacionales.md` |
+| 11:15-11:45 | **PAUSA - CAFÉ** | 30min | - | - |
+| 11:45-14:00 | Taller práctico: Creación de un agente con APIs REST | 2.25h | Práctico | `integracion_apis.md` |
 
 ## 🎯 Objetivos del Día
 
 Al finalizar el día 3, los participantes podrán:
 
-1. ✅ **Entender los conceptos** básicos de agentes conversacionales
-2. ✅ **Usar LangChain** para crear agentes simples
-3. ✅ **Integrar agentes** con APIs REST externas
-4. ✅ **Desarrollar un agente** que responda preguntas usando datos externos
-5. ✅ **Manejar errores** y casos edge en la comunicación con APIs
+1.  ✅ **Entender los conceptos** básicos de agentes conversacionales
+2.  ✅ **Usar LangChain** para crear agentes simples
+3.  ✅ **Integrar agentes** con APIs REST externas
+4.  ✅ **Desarrollar un agente** que responda preguntas usando datos externos
+5.  ✅ **Manejar errores** y casos edge en la comunicación con APIs
 
 ## 🧠 Conceptos Clave del Día
 
@@ -51,8 +46,8 @@ Al finalizar el día 3, los participantes podrán:
 pip install langchain langchain-openai langchain-community
 pip install requests beautifulsoup4
 pip install python-dotenv
-pip install streamlit  # Para crear interfaces rápidas
-pip install httpx  # Cliente HTTP asíncrono
+pip install streamlit # Para crear interfaces rápidas
+pip install httpx # Cliente HTTP asíncrono
 ```
 
 ## 🔧 Configuración del Entorno
@@ -87,37 +82,9 @@ MAX_TOKENS=1000
 ### Ejercicio 4: Agente de Consulta Integral (45 min)
 **Objetivo**: Combinar múltiples fuentes de datos en un solo agente
 
-## 📊 Evaluación del Día
+## ✅ Finalización del curso
 
-### Proyecto Final del Día (última hora):
-**"Agente de Información Universitaria"**
-- Debe responder preguntas sobre horarios, contactos, servicios
-- Usar al menos 2 APIs diferentes
-- Manejar errores graciosamente
-- Mantener contexto conversacional
-
-### Criterios de Evaluación:
-- **Funcionalidad** (40%): El agente responde correctamente
-- **Integración APIs** (30%): Maneja múltiples fuentes de datos
-- **Experiencia de usuario** (20%): Conversación natural y útil
-- **Robustez** (10%): Manejo de errores y casos límite
-
-## 🚨 Troubleshooting Común
-
-### Problemas de LangChain:
-- **Import errors**: Verificar versiones compatibles
-- **API limits**: Configurar rate limiting
-- **Memory issues**: Limpiar historial periódicamente
-
-### Problemas de APIs:
-- **CORS errors**: Configurar headers correctamente
-- **Timeout**: Implementar timeouts apropiados
-- **Authentication**: Verificar tokens y permisos
-
-### Soluciones Preparadas:
-1. **APIs mock** para casos sin conectividad
-2. **Ejemplos offline** con datos estáticos
-3. **Fallbacks** para cuando las APIs fallan
+La finalización del curso se basa en la **asistencia**. No hay evaluación formal ni entrega de proyectos. El objetivo es **aprender haciendo** en un entorno práctico y colaborativo.
 
 ## 📚 Material para Casa
 

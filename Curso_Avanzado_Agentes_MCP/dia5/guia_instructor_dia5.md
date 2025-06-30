@@ -3,24 +3,19 @@
 ## ⏰ Cronograma Detallado
 
 | Horario | Actividad | Duración | Tipo | Material |
-|---------|-----------|----------|------|----------|
+|---|---|---|---|---|
 | 09:00-09:15 | Repaso workflows del día 4 | 15min | Repaso | `repaso_workflows.md` |
-| 09:15-10:45 | Orquestación de agentes distribuidos | 1.5h | Teórico-Práctico | `orquestacion_agentes.md` |
-| 10:45-11:00 | **DESCANSO** | 15min | - | - |
-| 11:00-12:30 | Integración empresarial avanzada | 1.5h | Técnico | `integracion_empresarial.md` |
-| 12:30-13:30 | **ALMUERZO** | 1h | - | - |
-| 13:30-15:00 | Seguridad y governance en sistemas IA | 1.5h | Seguridad | `seguridad_governance.md` |
-| 15:00-15:15 | **DESCANSO** | 15min | - | - |
-| 15:15-16:45 | Auditoría, logging y compliance | 1.5h | Compliance | `auditoria_logging.md` |
-| 16:45-17:00 | Preparación proyecto final | 15min | Planificación | `preparacion_proyecto.md` |
+| 09:15-11:15 | Orquestación de agentes y seguridad | 2h | Teórico-Práctico | `orquestacion_agentes.md` |
+| 11:15-11:45 | **PAUSA - CAFÉ** | 30min | - | - |
+| 11:45-14:00 | Taller: Integración, auditoría y compliance | 2.25h | Práctico | `integracion_empresarial.md` |
 
 ## 🎯 Objetivos del Día
 
-1. ✅ **Diseñar arquitecturas** de agentes distribuidos
-2. ✅ **Implementar orquestación** de múltiples agentes
-3. ✅ **Integrar con sistemas** empresariales (LDAP, ERP, CRM)
-4. ✅ **Aplicar governance** y políticas de seguridad
-5. ✅ **Implementar auditoría** y compliance completo
+1.  ✅ **Diseñar arquitecturas** de agentes distribuidos
+2.  ✅ **Implementar orquestación** de múltiples agentes
+3.  ✅ **Integrar con sistemas** empresariales (LDAP, ERP, CRM)
+4.  ✅ **Aplicar governance** y políticas de seguridad
+5.  ✅ **Implementar auditoría** y compliance completo
 
 ## 🏗️ Arquitectura de Agentes Multi-Sistema
 
@@ -59,7 +54,7 @@ class Task:
     id: str = field(default_factory=lambda: str(uuid.uuid4()))
     type: str = ""
     description: str = ""
-    priority: int = 5  # 1-10, 10 = máxima prioridad
+    priority: int = 5 # 1-10, 10 = máxima prioridad
     assigned_agent: Optional[str] = None
     status: TaskStatus = TaskStatus.PENDING
     created_at: datetime = field(default_factory=datetime.now)
@@ -76,7 +71,7 @@ class Agent:
     capabilities: List[str]
     max_concurrent_tasks: int = 5
     current_tasks: List[str] = field(default_factory=list)
-    status: str = "active"  # active, busy, offline, maintenance
+    status: str = "active" # active, busy, offline, maintenance
     performance_metrics: Dict[str, float] = field(default_factory=dict)
 
 class UniversityAgentOrchestrator:
@@ -593,3 +588,7 @@ class SecureUniversityIntegration:
 ---
 
 **Próximo día**: Proyecto Integral - Desarrollo supervisado de sistema completo multi-agente para universidad
+
+## ✅ Finalización del curso
+
+La finalización del curso se basa en la **asistencia**. No hay evaluación formal ni entrega de proyectos. El objetivo es **aprender haciendo** en un entorno práctico y colaborativo.

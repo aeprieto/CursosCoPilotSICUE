@@ -23,7 +23,7 @@
 | **Día 2** | Desarrollo Asistido con Copilot | 5h | `dia2/` |
 | **Día 3** | Agentes Simples y APIs | 5h | `dia3/` |
 | **Día 4** | Agentes para Soporte Técnico | 5h | `dia4/` |
-| **Día 5** | Evaluación y Despliegue | 5h | `dia5/` |
+| **Día 5** | Integración y Prácticas Avanzadas | 5h | `dia5/` |
 
 ## 🎯 Objetivos de Aprendizaje
 
@@ -56,10 +56,9 @@ Al finalizar este curso, los participantes serán capaces de:
 - Casos de estudio universitarios
 - Recursos de referencia
 
-## 🏆 Evaluación
+## 🏆 Certificación
 
-- **Participación y ejercicios diarios (40%)**
-- **Proyecto final (60%)**: Agente funcional para el servicio de informática
+La finalización del curso se basa en la **asistencia y participación activa** en las sesiones. No hay una evaluación formal ni un proyecto final calificado. El objetivo es maximizar el aprendizaje práctico en un entorno colaborativo.
 
 ## 📞 Soporte
 

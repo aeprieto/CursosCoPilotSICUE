@@ -1,6 +1,6 @@
 # 🎓 Plan de Formación en Agentes de IA para Personal Universitario
 
-[![Estado del Proyecto](https://img.shields.io/badge/Estado-Completo-success)](./PROYECTO_COMPLETADO.md)
+[![Estado del Proyecto](https://img.shields.io/badge/Estado-Revisado-success)](./PROYECTO_COMPLETADO.md)
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)](./LICENSE)
 [![Contribuciones](https://img.shields.io/badge/Contribuciones-Bienvenidas-brightgreen.svg)](./CONTRIBUTING.md)
 
@@ -18,13 +18,12 @@ Programa completo de formación en desarrollo de agentes de IA diseñado especí
 ## 📚 Estructura del Programa
 
 ### 🌟 [Curso Básico: Introducción a Agentes con GitHub Copilot](./Curso_Basico_Agentes_Copilot/)
-**Duración:** 5 días (25 horas) | **Nivel:** Principiante
+**Duración:** 4 días (20 horas) | **Nivel:** Principiante
 
 - **Día 1:** Fundamentos y configuración de GitHub Copilot
 - **Día 2:** Desarrollo asistido con Copilot en VS Code
-- **Día 3:** Introducción a agentes conversacionales
-- **Día 4:** Desarrollo de chatbots educativos
-- **Día 5:** Proyecto final e integración con sistemas universitarios
+- **Día 3:** Agentes Simples y APIs
+- **Día 4:** Agentes para Soporte Técnico
 
 ### 🚀 [Curso Avanzado: Desarrollo de Agentes y MCP](./Curso_Avanzado_Agentes_MCP/)
 **Duración:** 7 días (35 horas) | **Nivel:** Avanzado
@@ -32,10 +31,10 @@ Programa completo de formación en desarrollo de agentes de IA diseñado especí
 - **Día 1:** Arquitecturas avanzadas de agentes
 - **Día 2:** Model Context Protocol - Fundamentos
 - **Día 3:** Desarrollo de servidores MCP
-- **Día 4:** Integración MCP con Claude y otros sistemas
-- **Día 5:** Orquestación de sistemas multi-agente
-- **Día 6:** Desarrollo de proyectos integrados
-- **Día 7:** Presentaciones finales y evaluación
+- **Día 4:** Integración MCP con Clientes
+- **Día 5:** Agentes Multi-Sistema y Orquestación
+- **Día 6:** Taller Práctico - Proyecto Integrador
+- **Día 7:** Próximos Pasos y Comunidad
 
 ## 🛠️ Recursos Incluidos
 
@@ -101,16 +100,12 @@ Programa completo de formación en desarrollo de agentes de IA diseñado especí
 | **Horas de contenido** | 60 horas |
 | **Archivos documentación** | 40+ archivos |
 | **Líneas de código** | 1000+ líneas |
-| **Ejercicios prácticos** | 60+ ejercicios |
+| **Ejercicios prácticos** | 50+ ejercicios |
 | **Plantillas reutilizables** | 25+ plantillas |
 
-## 🎓 Certificación
+## 🎓 Finalización del Programa
 
-Al completar los cursos, los participantes pueden obtener:
-
-- **Certificado Básico**: Desarrollo de Agentes con GitHub Copilot
-- **Certificado Avanzado**: Arquitectura de Sistemas Multi-Agente con MCP
-- **Certificado Completo**: Especialista en Agentes de IA para Entornos Universitarios
+La finalización de los cursos se basa en la **asistencia y participación activa**. No hay una evaluación formal ni entrega de proyectos. El objetivo principal es **aprender haciendo** en un entorno práctico y colaborativo, dotando al personal de habilidades aplicables directamente a los desafíos y oportunidades de la universidad. Se entregará un **certificado de asistencia** a quienes completen el programa.
 
 ## 🤝 Contribuciones
 

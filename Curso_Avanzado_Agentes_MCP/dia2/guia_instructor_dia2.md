@@ -3,26 +3,21 @@
 ## ⏰ Cronograma Detallado
 
 | Horario | Actividad | Duración | Tipo | Material |
-|---------|-----------|----------|------|----------|
+|---|---|---|---|---|
 | 09:00-09:15 | Repaso arquitecturas del día 1 | 15min | Repaso | `repaso_arquitecturas.md` |
-| 09:15-10:45 | ¿Qué es MCP realmente? | 1.5h | Teórico | `introduccion_mcp.md` |
-| 10:45-11:00 | **DESCANSO** | 15min | - | - |
-| 11:00-12:30 | Arquitectura y especificación MCP | 1.5h | Técnico | `arquitectura_especificacion_mcp.md` |
-| 12:30-13:30 | **ALMUERZO** | 1h | - | - |
-| 13:30-15:00 | Configuración del entorno MCP | 1.5h | Práctico | `configuracion_entorno_mcp.md` |
-| 15:00-15:15 | **DESCANSO** | 15min | - | - |
-| 15:15-16:45 | Primer servidor MCP básico | 1.5h | Práctico | `primer_servidor_mcp.md` |
-| 16:45-17:00 | Pruebas y preparación día 3 | 15min | Verificación | `pruebas_dia2.md` |
+| 09:15-11:15 | Fundamentos de MCP: ¿Qué es y cómo funciona? | 2h | Teórico-Técnico | `introduccion_mcp.md` |
+| 11:15-11:45 | **PAUSA - CAFÉ** | 30min | - | - |
+| 11:45-14:00 | Taller: Configuración del entorno y primer servidor MCP | 2.25h | Práctico | `primer_servidor_mcp.md` |
 
 ## 🎯 Objetivos del Día
 
 Al finalizar el día 2, los participantes podrán:
 
-1. ✅ **Comprender qué es MCP** y cómo funciona realmente
-2. ✅ **Distinguir MCP** de otros protocolos y APIs
-3. ✅ **Configurar entorno** para desarrollo MCP
-4. ✅ **Implementar servidor MCP** básico funcional
-5. ✅ **Conectar Claude Desktop** con servidor MCP propio
+1.  ✅ **Comprender qué es MCP** y cómo funciona realmente
+2.  ✅ **Distinguir MCP** de otros protocolos y APIs
+3.  ✅ **Configurar entorno** para desarrollo MCP
+4.  ✅ **Implementar servidor MCP** básico funcional
+5.  ✅ **Conectar Claude Desktop** con servidor MCP propio
 
 ## 📚 Corrección de Conceptos Erróneos
 
@@ -659,5 +654,9 @@ if __name__ == "__main__":
 - **Preparación**: Instalar herramientas para desarrollo día 3
 
 ---
+
+## ✅ Finalización del curso
+
+La finalización del curso se basa en la **asistencia**. No hay evaluación formal ni entrega de proyectos. El objetivo es **aprender haciendo** en un entorno práctico y colaborativo.
 
 **Próximo día**: Desarrollo de Servidores MCP - Implementación avanzada con bases de datos reales e integración con sistemas universitarios

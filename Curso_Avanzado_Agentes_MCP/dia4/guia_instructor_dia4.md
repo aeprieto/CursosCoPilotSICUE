@@ -3,24 +3,19 @@
 ## ⏰ Cronograma Detallado
 
 | Horario | Actividad | Duración | Tipo | Material |
-|---------|-----------|----------|------|----------|
+|---|---|---|---|---|
 | 09:00-09:15 | Verificación servidores MCP del día 3 | 15min | Testing | `verificacion_servidores.md` |
-| 09:15-10:45 | Integración avanzada con Claude Desktop | 1.5h | Práctico | `integracion_claude_desktop.md` |
-| 10:45-11:00 | **DESCANSO** | 15min | - | - |
-| 11:00-12:30 | Desarrollo de clientes MCP personalizados | 1.5h | Desarrollo | `clientes_personalizados.md` |
-| 12:30-13:30 | **ALMUERZO** | 1h | - | - |
-| 13:30-15:00 | Casos de uso complejos y workflows | 1.5h | Aplicación | `casos_uso_complejos.md` |
-| 15:00-15:15 | **DESCANSO** | 15min | - | - |
-| 15:15-16:45 | Automatización de workflows universitarios | 1.5h | Proyecto | `workflows_automatizados.md` |
-| 16:45-17:00 | Demostración y evaluación del día | 15min | Demo | `demo_evaluacion.md` |
+| 09:15-11:15 | Integración con Claude Desktop y clientes personalizados | 2h | Práctico | `integracion_claude_desktop.md` |
+| 11:15-11:45 | **PAUSA - CAFÉ** | 30min | - | - |
+| 11:45-14:00 | Taller: Workflows universitarios automatizados | 2.25h | Proyecto | `workflows_automatizados.md` |
 
 ## 🎯 Objetivos del Día
 
-1. ✅ **Integrar servidores MCP** avanzados con Claude Desktop
-2. ✅ **Desarrollar clientes MCP** personalizados para casos específicos
-3. ✅ **Implementar workflows** complejos multi-step
-4. ✅ **Automatizar procesos** universitarios completos
-5. ✅ **Optimizar la experiencia** de usuario final
+1.  ✅ **Integrar servidores MCP** avanzados con Claude Desktop
+2.  ✅ **Desarrollar clientes MCP** personalizados para casos específicos
+3.  ✅ **Implementar workflows** complejos multi-step
+4.  ✅ **Automatizar procesos** universitarios completos
+5.  ✅ **Optimizar la experiencia** de usuario final
 
 ## 🔧 Configuración Avanzada Claude Desktop
 
@@ -642,28 +637,9 @@ if __name__ == "__main__":
     asyncio.run(demo_enrollment_workflow())
 ```
 
-## 🎯 Ejercicios del Día
+## ✅ Finalización del curso
 
-### Ejercicio 1: Configuración Avanzada Claude Desktop (30 min)
-- Configurar múltiples servidores MCP
-- Implementar configuración de seguridad
-- Probar conectividad y rendimiento
-
-### Ejercicio 2: Cliente Web Personalizado (60 min)
-- Desarrollar interfaz Streamlit
-- Integrar con servidores MCP
-- Crear dashboard de monitorización
-
-### Ejercicio 3: Workflow de Proceso Universitario (90 min)
-- Elegir proceso específico de tu universidad
-- Diseñar workflow multi-paso
-- Implementar con manejo de errores
-- Probar con datos reales
-
-### Ejercicio 4: Optimización y Monitorización (30 min)
-- Implementar métricas de rendimiento
-- Configurar alertas y logs
-- Optimizar tiempos de respuesta
+La finalización del curso se basa en la **asistencia**. No hay evaluación formal ni entrega de proyectos. El objetivo es **aprender haciendo** en un entorno práctico y colaborativo.
 
 ---
 

@@ -1,87 +1,76 @@
 # Día 1: Fundamentos y Configuración
 
-## ⏰ Cronograma Detallado
+## ⏰ Cronograma Detallado (9:00 - 14:00)
 
-| Horario | Actividad | Duración | Tipo | Material |
-|---------|-----------|----------|------|----------|
-| 09:00-09:15 | Bienvenida y presentaciones | 15min | Plenario | `presentacion_bienvenida.md` |
-| 09:15-10:15 | Conceptos fundamentales de IA y agentes | 1h | Teórico | `conceptos_fundamentales.md` |
-| 10:15-10:30 | **DESCANSO** | 15min | - | - |
-| 10:30-12:00 | GitHub Copilot en profundidad | 1.5h | Teórico-Práctico | `github_copilot_profundidad.md` |
-| 12:00-13:00 | **ALMUERZO** | 1h | - | - |
-| 13:00-14:30 | Configuración del entorno | 1.5h | Práctico | `configuracion_entorno.md` |
-| 14:30-15:00 | Primeros ejercicios con Copilot | 30min | Práctico | `ejercicios_basicos.md` |
-| 15:00-15:15 | **DESCANSO** | 15min | - | - |
-| 15:15-16:45 | Práctica guiada y resolución de problemas | 1.5h | Práctico | `practica_guiada.md` |
-| 16:45-17:00 | Recapitulación y tareas para casa | 15min | Plenario | `recapitulacion_dia1.md` |
+| Horario     | Actividad                                       | Duración | Tipo              | Material                       |
+|-------------|-------------------------------------------------|----------|-------------------|--------------------------------|
+| 09:00-09:15 | Bienvenida, objetivos y estructura del curso    | 15min    | Plenario          | `presentacion_bienvenida.md`   |
+| 09:15-10:30 | Conceptos Clave: IA, Agentes y GitHub Copilot   | 1h 15min | Teórico-Práctico  | `conceptos_fundamentales.md`   |
+| 10:30-11:15 | Configuración del Entorno de Desarrollo         | 45min    | Práctico          | `configuracion_entorno.md`     |
+| 11:15-11:45 | **Pausa para el café**                          | 30min    | Descanso          | -                              |
+| 11:45-13:45 | Práctica Intensiva: Creación de Scripts con Copilot | 2h       | Práctico Guiado   | `ejercicios_basicos.md`        |
+| 13:45-14:00 | Recapitulación, Dudas y Cierre de la Sesión     | 15min    | Plenario          | `recapitulacion_dia1.md`       |
 
 ## 🎯 Objetivos del Día
 
 Al finalizar el día 1, los participantes podrán:
 
-1. ✅ Explicar qué son los agentes de IA y sus tipos
-2. ✅ Diferenciar entre chatbots, agentes y asistentes
-3. ✅ Configurar correctamente GitHub Copilot en VS Code
-4. ✅ Utilizar las funciones básicas de Copilot y Copilot Chat
-5. ✅ Generar código simple con prompts efectivos
+1. ✅ Entender la estructura y objetivos del programa de formación.
+2. ✅ Configurar su entorno de desarrollo con VS Code y GitHub Copilot.
+3. ✅ Utilizar las funciones esenciales de Copilot para generar y completar código.
+4. ✅ Aplicar prompts efectivos para resolver problemas de programación simples.
+5. ✅ Haber creado sus primeros scripts en Python con asistencia de IA.
 
 ## 📋 Checklist del Instructor
 
 ### Antes de la sesión:
-- [ ] Verificar que todos los PCs tienen VS Code instalado
-- [ ] Confirmar acceso a internet estable
-- [ ] Preparar cuentas de GitHub Copilot de prueba (si es necesario)
-- [ ] Revisar proyector y material audiovisual
-- [ ] Imprimir lista de asistentes
+- [ ] Verificar instalación de VS Code y Python en las máquinas.
+- [ ] Confirmar que las licencias de GitHub Copilot están activas para todos.
+- [ ] Preparar un repositorio Git con el material del día.
+- [ ] Revisar proyector y sistema de audio.
 
 ### Durante la sesión:
-- [ ] Tomar asistencia
-- [ ] Verificar que todos pueden seguir los ejercicios
-- [ ] Documentar dudas comunes para futuras ediciones
-- [ ] Asegurar participación activa
+- [ ] Fomentar un ambiente colaborativo y de experimentación.
+- [ ] Circular por la sala para resolver dudas individuales durante la práctica.
+- [ ] Gestionar el tiempo para cubrir todos los puntos del cronograma.
+- [ ] Anotar los desafíos más comunes para ajustar futuras sesiones.
 
 ### Después de la sesión:
-- [ ] Enviar resumen del día por email
-- [ ] Compartir materiales adicionales
-- [ ] Preparar material del día 2
+- [ ] Compartir el código y los recursos generados durante el día.
+- [ ] Recordar los objetivos para el día siguiente.
 
 ## 🔧 Troubleshooting Común
 
-### Problemas de Instalación:
-- **Error de licencia de Copilot**: Verificar cuenta educativa o usar licencia de prueba
-- **VS Code no encuentra Python**: Configurar PATH o usar extensión Python
-- **Problemas de red**: Configurar proxy universitario si es necesario
+### Problemas de Configuración:
+- **Error de licencia de Copilot**: Verificar que la cuenta de GitHub del usuario está correctamente asociada a la organización.
+- **VS Code no detecta Python**: Guiar en la selección del intérprete de Python correcto desde la paleta de comandos.
+- **Conflictos de extensiones**: Recomendar desactivar otras extensiones de autocompletado si generan conflictos.
 
 ### Soluciones Rápidas:
-1. Tener VS Code Portable como backup
-2. Hotspot móvil para problemas de red críticos
-3. Cuentas de GitHub adicionales preparadas
+1. Disponer de un par de cuentas de GitHub de respaldo con licencias activas.
+2. Tener a mano una guía rápida de configuración en formato digital y físico.
+3. Usar la función de Live Share de VS Code para asistir remotamente a quien lo necesite.
 
-## 📝 Evaluación del Día
+## ✍️ Actividades Prácticas (Foco en "Aprender Haciendo")
 
-### Ejercicio Final (30 minutos):
-Los participantes deben:
-1. Crear un script Python simple usando Copilot
-2. Generar documentación automática
-3. Explicar el proceso seguido
+El día se centra en la aplicación directa. Las actividades incluyen:
+1. **Ejercicio "Hola, Copilot"**: Generar un script básico que imprima "Hola, Mundo" y una función simple, usando solo comentarios y prompts.
+2. **Refactorización Asistida**: Tomar un fragmento de código poco eficiente y pedir a Copilot que lo mejore y explique los cambios.
+3. **Creación de Utilidades**: Desarrollar pequeños scripts para tareas comunes (ej. renombrar archivos, leer un CSV) guiados por el instructor.
 
-### Criterios de Evaluación:
-- Uso correcto de Copilot (40%)
-- Calidad del código generado (30%)
-- Comprensión del proceso (30%)
+**Nota:** No hay evaluación formal. El éxito se mide por la participación y la finalización de los ejercicios prácticos.
 
-## 📚 Material para Casa
+## 📚 Material de Apoyo
 
-- Leer: `recursos/lectura_agentes_ia.pdf`
-- Practicar: Ejercicios opcionales en `ejercicios/extra_dia1.py`
-- Preparar: Pensar en un caso de uso específico para su trabajo diario
+- Acceso al repositorio del curso con todos los ejemplos.
+- Enlace a la documentación oficial de GitHub Copilot.
+- Lista de prompts útiles para empezar.
 
 ## 📞 Contacto y Dudas
 
-- Canal Slack: `#curso-dia1`
-- Email instructor: [correo]
-- Office hours: Mañana 10:00-11:00
+- Canal interno: `#curso-agentes-basico`
+- Responsable del día: [Nombre del Instructor]
 
 ---
 
-**Próximo día**: Desarrollo Asistido con Copilot - Técnicas avanzadas de prompting y automatización
+**Próximo día**: Desarrollo Asistido con Copilot - Técnicas avanzadas de prompting y automatización.

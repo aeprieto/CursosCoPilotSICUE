@@ -35,7 +35,7 @@
 | **Día 4** | Integración MCP con Claude/Sistemas | 5h | Integración | `dia4/` |
 | **Día 5** | Agentes Multi-Sistema | 5h | Arquitectura | `dia5/` |
 | **Día 6** | Desarrollo de Proyectos Integrados | 5h | Desarrollo | `dia6/` |
-| **Día 7** | Presentaciones y Evaluación Final | 5h | Evaluación | `dia7/` |
+| **Día 7** | Despliegue y Casos de Uso Avanzados | 5h | Práctico | `dia7/` |
 
 ## 🎯 Objetivos de Aprendizaje Avanzados
 
@@ -67,26 +67,9 @@ Al finalizar este curso, los participantes serán capaces de:
 - **Anthropic Claude API**
 - **GitHub Actions** para CI/CD
 
-## 📊 Metodología de Evaluación
+## 🏆 Certificación
 
-### Evaluación Continua (40%):
-- Ejercicios diarios y participación
-- Peer review de código
-- Presentaciones técnicas cortas
-
-### Proyecto Integral (60%):
-**Sistema Multi-Agente para Universidad**
-- Arquitectura técnica documentada
-- Servidor MCP funcional
-- Integración con al menos 2 sistemas existentes
-- Plan de implementación realista
-- Presentación final de 20 minutos
-
-### Criterios de Evaluación:
-- **Arquitectura y Diseño (25%)**
-- **Implementación Técnica (35%)**
-- **Innovación y Utilidad (20%)**
-- **Documentación y Presentación (20%)**
+La finalización del curso se basa en la **asistencia y participación activa** en todas las sesiones. El enfoque principal es el desarrollo de habilidades prácticas a través de la construcción de sistemas complejos en un entorno de aprendizaje intensivo. No se realizarán evaluaciones formales ni se calificarán proyectos.
 
 ## 🏗️ Proyectos Ejemplo para Desarrollo
 

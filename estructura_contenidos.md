@@ -27,22 +27,14 @@ CursosCoPIlotSICUE/
 │   │   └── documentacion_automatica.md
 │   ├── dia3/
 │   │   ├── guia_instructor_dia3.md
-│   │   ├── introduccion_langchain.md
-│   │   ├── agentes_simples.md
-│   │   ├── integracion_apis.md
-│   │   └── primer_agente_conversacional.md
+│   │   ├── introduccion_agentes_conversacionales.md
+│   │   ├── langchain_basico.md
+│   │   └── integracion_apis.md
 │   ├── dia4/
 │   │   ├── guia_instructor_dia4.md
-│   │   ├── agentes_soporte_tecnico.md
-│   │   ├── integracion_sistemas_universitarios.md
-│   │   ├── automatizacion_tickets.md
-│   │   └── proyecto_practico.md
-│   └── dia5/
-│       ├── guia_instructor_dia5.md
-│       ├── presentaciones_proyectos.md
-│       ├── conceptos_despliegue.md
-│       ├── evaluacion_final.md
-│       └── certificacion.md
+│   │   ├── casos_uso_universitarios.md
+│   │   ├── desarrollo_agente_soporte.md
+│   │   └── automatizacion_tickets_workflows.md
 ├── Curso_Avanzado_Agentes_MCP/
 │   ├── README.md
 │   ├── recursos/
@@ -78,20 +70,15 @@ CursosCoPIlotSICUE/
 │   │   ├── guia_instructor_dia5.md
 │   │   ├── orquestacion_agentes.md
 │   │   ├── integracion_empresarial.md
-│   │   ├── seguridad_governance.md
 │   │   └── auditoria_logging.md
 │   ├── dia6/
 │   │   ├── guia_instructor_dia6.md
-│   │   ├── diseno_proyecto_integral.md
-│   │   ├── desarrollo_supervisado.md
-│   │   ├── sistema_multiagente_universidad.md
-│   │   └── documentacion_tecnica.md
+│   │   ├── proyecto_integrado.md
+│   │   └── taller_asistido.md
 │   └── dia7/
 │       ├── guia_instructor_dia7.md
-│       ├── presentaciones_finales.md
-│       ├── evaluacion_pares.md
-│       ├── planificacion_implementacion.md
-│       └── certificacion_avanzada.md
+│       ├── despliegue_mantenimiento.md
+│       └── comunidad_cierre.md
 └── recursos_comunes/
     ├── templates/
     ├── ejemplos_codigo/
@@ -124,10 +111,9 @@ CursosCoPIlotSICUE/
 
 ## 📝 Contenidos Pendientes de Crear
 
-### Curso Básico - Días 3-5:
+### Curso Básico - Días 3-4:
 - **Día 3**: Agentes simples y APIs con LangChain
 - **Día 4**: Agentes para soporte técnico universitario
-- **Día 5**: Evaluación final y despliegue
 
 ### Curso Avanzado - Días 2-7:
 - **Día 2**: Model Context Protocol fundamentos
