@@ -27,15 +27,38 @@
 
 ### 📅 Cronograma General
 
-| Día | Tema Principal | Duración | Enfoque | Archivos |
-|-----|----------------|----------|---------|----------|
-| **Día 1** | Arquitecturas Avanzadas de Agentes | 5h | Teórico-Práctico | `dia1/` |
-| **Día 2** | Model Context Protocol - Fundamentos | 5h | Técnico | `dia2/` |
-| **Día 3** | Desarrollo de Servidores MCP | 5h | Práctico | `dia3/` |
-| **Día 4** | Integración MCP con Claude/Sistemas | 5h | Integración | `dia4/` |
-| **Día 5** | Agentes Multi-Sistema | 5h | Arquitectura | `dia5/` |
-| **Día 6** | Desarrollo de Proyectos Integrados | 5h | Desarrollo | `dia6/` |
-| **Día 7** | Despliegue y Casos de Uso Avanzados | 5h | Práctico | `dia7/` |
+| Día | Tema Principal | Duración | Enfoque | Archivos Prácticos |
+|-----|----------------|----------|---------|-------------------|
+| **Día 1** | Arquitecturas Avanzadas de Agentes | 5h | Teórico-Práctico | `agente_react_ejemplo.py` |
+| **Día 2** | Model Context Protocol - Fundamentos | 5h | Técnico | `servidor_mcp_basico.py` |
+| **Día 3** | Desarrollo de Servidores MCP | 5h | Práctico | `servidor_universitario_avanzado.py` |
+| **Día 4** | Integración MCP con Claude/Sistemas | 5h | Integración | `cliente_mcp_workflows.py` |
+| **Día 5** | Agentes Multi-Sistema | 5h | Arquitectura | `orquestador_multi_agente.py` |
+| **Día 6** | Desarrollo de Proyectos Integrados | 5h | Desarrollo | `sistema_mcp_completo.md` |
+| **Día 7** | Despliegue y Casos de Uso Avanzados | 5h | Práctico | `sistema_despliegue_produccion.py` |
+
+### 🎯 Ejemplos Prácticos por Día
+
+#### 📁 Día 1: Arquitecturas Avanzadas
+- **`agente_react_ejemplo.py`**: Implementación completa de un agente ReAct que resuelve problemas mediante razonamiento y acción. Incluye integración con herramientas de cálculo y análisis de datos.
+
+#### 📁 Día 2: MCP Fundamentos  
+- **`servidor_mcp_basico.py`**: Servidor MCP funcional que implementa herramientas básicas de gestión universitaria. Perfecto para entender la arquitectura MCP.
+
+#### 📁 Día 3: Servidores MCP Avanzados
+- **`servidor_universitario_avanzado.py`**: Sistema MCP complejo con múltiples herramientas: gestión de estudiantes, matrículas, notificaciones y reportes automáticos.
+
+#### 📁 Día 4: Integración con Sistemas
+- **`cliente_mcp_workflows.py`**: Cliente MCP que implementa workflows complejos y se integra con Claude Desktop para automatizar procesos universitarios.
+
+#### 📁 Día 5: Multi-Agentes
+- **`orquestador_multi_agente.py`**: Sistema de coordinación de múltiples agentes especializados que trabajan en colaboración para resolver tareas complejas.
+
+#### 📁 Día 6: Proyectos Integrados
+- **`sistema_mcp_completo.md`**: Documentación detallada y guía paso a paso para construir un sistema MCP completo desde cero.
+
+#### 📁 Día 7: Producción
+- **`sistema_despliegue_produccion.py`**: Scripts y configuraciones para llevar sistemas MCP a producción con logging, monitoreo y escalabilidad.
 
 ## 🎯 Objetivos de Aprendizaje Avanzados
 
@@ -67,9 +90,21 @@ Al finalizar este curso, los participantes serán capaces de:
 - **Anthropic Claude API**
 - **GitHub Actions** para CI/CD
 
-## 🏆 Certificación
+## 🏆 Metodología "Hands-On"
 
-La finalización del curso se basa en la **asistencia y participación activa** en todas las sesiones. El enfoque principal es el desarrollo de habilidades prácticas a través de la construcción de sistemas complejos en un entorno de aprendizaje intensivo. No se realizarán evaluaciones formales ni se calificarán proyectos.
+Este curso se basa en la filosofía de **"aprender haciendo"** donde cada día incluye ejemplos prácticos ejecutables que los participantes pueden probar, modificar y expandir inmediatamente. No hay evaluaciones formales - el aprendizaje se mide por la capacidad de construir y desplegar sistemas reales.
+
+### 🛠️ Cada día incluye:
+- **Ejemplo ejecutable** listo para usar
+- **Guía del instructor** con explicaciones detalladas  
+- **Ejercicios prácticos** para experimentar
+- **Sesiones de coding colaborativo**
+
+### 📋 Validación del Aprendizaje:
+- **Participación activa** en talleres prácticos
+- **Construcción exitosa** de los ejemplos del día
+- **Contribución** en sesiones de pair programming
+- **Aplicación práctica** en casos de uso universitarios
 
 ## 🏗️ Proyectos Ejemplo para Desarrollo
 
@@ -91,24 +126,28 @@ La finalización del curso se basa en la **asistencia y participación activa** 
 - Predicción de fallos
 - Automatización de respuestas
 
-## 📚 Materiales Avanzados Incluidos
+## 📚 Recursos Prácticos Incluidos
 
-### Documentación Técnica:
-- Especificación completa del protocolo MCP
-- Patterns de arquitectura para agentes
-- Guías de integración con sistemas universitarios
-- Best practices de seguridad y governance
+### 🎯 Ejemplos Ejecutables (7 archivos principales):
+- **Agente ReAct avanzado** (`agente_react_ejemplo.py`)
+- **Servidor MCP básico** (`servidor_mcp_basico.py`) 
+- **Sistema universitario MCP** (`servidor_universitario_avanzado.py`)
+- **Cliente MCP con workflows** (`cliente_mcp_workflows.py`)
+- **Orquestador multi-agente** (`orquestador_multi_agente.py`)
+- **Sistema completo documentado** (`sistema_mcp_completo.md`)
+- **Scripts de producción** (`sistema_despliegue_produccion.py`)
 
-### Código Base:
-- Templates de servidores MCP
-- Ejemplos de agentes complejos
-- Integraciones con APIs universitarias comunes
-- Scripts de deployment y configuración
+### 📖 Documentación Técnica:
+- **Guías del instructor** detalladas para cada día
+- **Especificación MCP** con ejemplos prácticos
+- **Patterns de arquitectura** implementados en código
+- **Best practices** con casos reales universitarios
 
-### Recursos de Referencia:
-- Papers académicos sobre multi-agent systems
-- Case studies de implementaciones reales
-- Benchmarks y métricas de rendimiento
+### 🔧 Herramientas y Templates:
+- **Configuraciones Docker** para desarrollo
+- **Scripts de deployment** automático
+- **Templates de integração** con sistemas universitarios
+- **Ejemplos de testing** y debugging
 
 ## 🔒 Consideraciones de Seguridad y Compliance
 
@@ -138,19 +177,23 @@ La finalización del curso se basa en la **asistencia y participación activa** 
 - **Consultoría Técnica**: 5 horas de soporte personalizado
 - **Updates**: Información sobre nuevas versiones y técnicas
 
-## 🎖️ Certificación Avanzada
+## 🎖️ Completación del Curso
 
-### Requisitos para Certificación:
-- Asistencia mínima del 90%
-- Proyecto final aprobado (calificación ≥ 70%)
-- Presentación técnica exitosa
-- Peer review satisfactorio
+### ✅ Requisitos de Finalización:
+- **Asistencia activa** al 90% de las sesiones
+- **Construcción exitosa** de los ejemplos prácticos
+- **Participación** en talleres colaborativos
+- **Demostración** de habilidades en sesión final
 
-### Certificado Incluye:
-- Competencias técnicas específicas conseguidas
-- Horas de formación completadas
-- Proyectos desarrollados
-- Validación por parte de la institución
+### 🏆 Certificado de Competencias:
+- **Desarrollo de servidores MCP** funcionales
+- **Arquitectura de sistemas** multi-agente
+- **Integración con infraestructura** universitaria
+- **Deployment en producción** de sistemas IA
+- **35 horas de formación** práctica intensiva
+
+### 🚀 Capacidades Adquiridas:
+Al completar el curso, los participantes podrán construir e implementar sistemas de agentes complejos en producción, desde el diseño arquitectónico hasta el deployment y mantenimiento.
 
 ## 📈 Plan de Implementación Post-Curso
 

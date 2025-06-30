@@ -8,6 +8,8 @@ Al finalizar esta sesión, los participantes comprenderán:
 - Componentes clave: memoria, herramientas, y contexto
 - Arquitectura básica de un sistema conversacional
 
+> **📁 Ejemplo Práctico**: `agente_simple.py` - Un agente conversacional completo con memoria y herramientas que puedes ejecutar y modificar para experimentar con todos los conceptos de esta sesión.
+
 ---
 
 ## 🤖 ¿Qué es un Agente Conversacional?

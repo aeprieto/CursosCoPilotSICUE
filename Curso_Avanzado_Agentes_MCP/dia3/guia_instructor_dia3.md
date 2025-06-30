@@ -5,9 +5,11 @@
 | Horario | Actividad | Duración | Tipo | Material |
 |---|---|---|---|---|
 | 09:00-09:15 | Repaso y verificación servidores día 2 | 15min | Verificación | `repaso_dia2.md` |
-| 09:15-11:15 | Servidores MCP con bases de datos y herramientas avanzadas | 2h | Práctico | `servidores_bd_reales.md` |
+| 09:15-11:15 | Servidores MCP con bases de datos y herramientas avanzadas | 2h | Práctico | `servidor_universitario_avanzado.py` |
 | 11:15-11:45 | **PAUSA - CAFÉ** | 30min | - | - |
-| 11:45-14:00 | Taller: Servidor MCP Universitario y gestión de recursos | 2.25h | Práctico | `servidor_universitario_completo.md` |
+| 11:45-14:00 | Taller: Servidor MCP Universitario y gestión de recursos | 2.25h | Práctico | `servidor_universitario_avanzado.py` |
+
+> **🎯 Ejemplo Principal del Día**: `servidor_universitario_avanzado.py` - Un servidor MCP complejo que implementa múltiples herramientas universitarias: gestión de estudiantes, matrículas, notificaciones automáticas y reportes. Incluye base de datos SQLite, validación de datos y manejo de errores robusto.
 
 ## 🎯 Objetivos del Día
 

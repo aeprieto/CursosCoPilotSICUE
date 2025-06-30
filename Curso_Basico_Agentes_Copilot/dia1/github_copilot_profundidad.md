@@ -8,6 +8,10 @@ Al finalizar esta sesión, los participantes podrán:
 - Aplicar mejores prácticas de prompting para código
 - Utilizar las funciones avanzadas de Copilot
 
+> **📁 Ejemplos Prácticos**: 
+> - `ejemplo_funciones.py` - Funciones que construirás con ayuda de Copilot
+> - `demo_conceptos_interactiva.py` - Demo práctica de todas las funcionalidades de Copilot
+
 ---
 
 ## 🛠️ ¿Qué es GitHub Copilot?
@@ -114,7 +118,7 @@ find . -name "*.py" -mtime -7
 ```python
 # Crea un archivo test.py y escribe:
 def hello_
-# Copilot debería sugerir completar con "world():"
+# Copilot debería sugiere completar con "world():"
 ```
 
 ---

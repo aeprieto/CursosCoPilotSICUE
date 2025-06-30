@@ -5,9 +5,11 @@
 | Horario | Actividad | Duración | Tipo | Material |
 |---|---|---|---|---|
 | 09:00-09:15 | Repaso workflows del día 4 | 15min | Repaso | `repaso_workflows.md` |
-| 09:15-11:15 | Orquestación de agentes y seguridad | 2h | Teórico-Práctico | `orquestacion_agentes.md` |
+| 09:15-11:15 | Orquestación de agentes y seguridad | 2h | Teórico-Práctico | `orquestador_multi_agente.py` |
 | 11:15-11:45 | **PAUSA - CAFÉ** | 30min | - | - |
-| 11:45-14:00 | Taller: Integración, auditoría y compliance | 2.25h | Práctico | `integracion_empresarial.md` |
+| 11:45-14:00 | Taller: Integración, auditoría y compliance | 2.25h | Práctico | `orquestador_multi_agente.py` |
+
+> **🎯 Ejemplo Principal del Día**: `orquestador_multi_agente.py` - Sistema complejo de coordinación de múltiples agentes especializados que trabajan colaborativamente. Incluye distribución de tareas, manejo de prioridades, comunicación entre agentes y supervisión centralizada.
 
 ## 🎯 Objetivos del Día
 

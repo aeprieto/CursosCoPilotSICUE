@@ -8,6 +8,10 @@ Al finalizar esta sesión, los participantes comprenderán:
 - El panorama actual de herramientas de IA
 - Aplicaciones específicas en entornos universitarios
 
+> **📁 Ejemplos Prácticos**: 
+> - `ejemplo_funciones.py` - Funciones básicas de IA para experimentar
+> - `demo_conceptos_interactiva.py` - Demo interactiva de todos los conceptos explicados en esta sesión
+
 ---
 
 ## 🧠 ¿Qué es la Inteligencia Artificial Generativa?

@@ -1,12 +1,14 @@
-# Día 7: Próximos Pasos y Comunidad
+# Día 7: Despliegue en Producción y Próximos Pasos
 
 ## ⏰ Cronograma Detallado
 
 | Horario | Actividad | Duración | Tipo | Material |
 |---|---|---|---|---|
-| 09:00-11:15 | Taller final: Despliegue y mantenimiento de agentes | 2.25h | Práctico | `despliegue_mantenimiento.md` |
+| 09:00-11:15 | Taller final: Despliegue y mantenimiento de agentes | 2.25h | Práctico | `sistema_despliegue_produccion.py` |
 | 11:15-11:45 | **PAUSA - CAFÉ** | 30min | - | - |
 | 11:45-14:00 | Mesa redonda, creación de comunidad y cierre del curso | 2.25h | Discusión | `comunidad_cierre.md` |
+
+> **🎯 Ejemplo Principal del Día**: `sistema_despliegue_produccion.py` - Scripts y configuraciones completas para llevar sistemas MCP a producción. Incluye Docker, logging avanzado, monitoreo de rendimiento, backup automático y scripts de mantenimiento.
 
 ## 🎯 Objetivos del Día
 

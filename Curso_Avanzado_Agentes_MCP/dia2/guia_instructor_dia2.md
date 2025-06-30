@@ -7,7 +7,9 @@
 | 09:00-09:15 | Repaso arquitecturas del día 1 | 15min | Repaso | `repaso_arquitecturas.md` |
 | 09:15-11:15 | Fundamentos de MCP: ¿Qué es y cómo funciona? | 2h | Teórico-Técnico | `introduccion_mcp.md` |
 | 11:15-11:45 | **PAUSA - CAFÉ** | 30min | - | - |
-| 11:45-14:00 | Taller: Configuración del entorno y primer servidor MCP | 2.25h | Práctico | `primer_servidor_mcp.md` |
+| 11:45-14:00 | Taller: Configuración del entorno y primer servidor MCP | 2.25h | Práctico | `servidor_mcp_basico.py` |
+
+> **🎯 Ejemplo Principal del Día**: `servidor_mcp_basico.py` - Un servidor MCP completo y funcional que implementa herramientas de gestión universitaria. Este archivo contiene todo lo necesario para entender y experimentar con el protocolo MCP.
 
 ## 🎯 Objetivos del Día
 

@@ -5,9 +5,11 @@
 | Horario | Actividad | Duración | Tipo | Material |
 |---|---|---|---|---|
 | 09:00-09:15 | Verificación servidores MCP del día 3 | 15min | Testing | `verificacion_servidores.md` |
-| 09:15-11:15 | Integración con Claude Desktop y clientes personalizados | 2h | Práctico | `integracion_claude_desktop.md` |
+| 09:15-11:15 | Integración con Claude Desktop y clientes personalizados | 2h | Práctico | `cliente_mcp_workflows.py` |
 | 11:15-11:45 | **PAUSA - CAFÉ** | 30min | - | - |
-| 11:45-14:00 | Taller: Workflows universitarios automatizados | 2.25h | Proyecto | `workflows_automatizados.md` |
+| 11:45-14:00 | Taller: Workflows universitarios automatizados | 2.25h | Proyecto | `cliente_mcp_workflows.py` |
+
+> **🎯 Ejemplo Principal del Día**: `cliente_mcp_workflows.py` - Cliente MCP avanzado que implementa workflows complejos y se integra con Claude Desktop. Incluye automatización de procesos universitarios, manejo de múltiples servidores MCP y orquestación de tareas complejas.
 
 ## 🎯 Objetivos del Día
 

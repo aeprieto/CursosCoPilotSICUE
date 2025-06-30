@@ -4,9 +4,11 @@
 
 | Horario | Actividad | Duración | Tipo | Material |
 |---|---|---|---|---|
-| 09:00-11:15 | Desarrollo del proyecto: Sistema de Gestión Académica Inteligente | 2.25h | Práctico | `proyecto_integrado.md` |
+| 09:00-11:15 | Desarrollo del proyecto: Sistema de Gestión Académica Inteligente | 2.25h | Práctico | `sistema_mcp_completo.md` |
 | 11:15-11:45 | **PAUSA - CAFÉ** | 30min | - | - |
-| 11:45-14:00 | Continuación del taller y resolución de dudas | 2.25h | Práctico | `taller_asistido.md` |
+| 11:45-14:00 | Continuación del taller y resolución de dudas | 2.25h | Práctico | `sistema_mcp_completo.md` |
+
+> **🎯 Recurso Principal del Día**: `sistema_mcp_completo.md` - Documentación detallada y guía paso a paso para construir un sistema MCP completo desde cero. Incluye arquitectura, implementación, testing y deployment de un sistema multi-agente universitario real.
 
 ## 🎯 Objetivos del Día
 

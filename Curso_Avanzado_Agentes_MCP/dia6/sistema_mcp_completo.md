@@ -1,4 +1,34 @@
-# Plantillas Avanzadas para Desarrollo de Agentes MCP
+# Sistema MCP Completo - Guía de Construcción Paso a Paso
+
+## 🎯 Introducción
+
+Esta guía te llevará paso a paso para construir un sistema MCP completo desde cero, integrando todos los conceptos y ejemplos prácticos vistos durante el curso. 
+
+### 🔗 Conexión con Ejemplos del Curso
+
+Durante los días anteriores hemos construido ejemplos progresivos:
+
+- **Día 1**: `agente_react_ejemplo.py` - Arquitecturas avanzadas
+- **Día 2**: `servidor_mcp_basico.py` - Fundamentos MCP
+- **Día 3**: `servidor_universitario_avanzado.py` - Servidores complejos  
+- **Día 4**: `cliente_mcp_workflows.py` - Integración con sistemas
+- **Día 5**: `orquestador_multi_agente.py` - Coordinación de agentes
+
+Ahora los integraremos en un **sistema completo y funcional** listo para producción.
+
+## 🏗️ Arquitectura del Sistema Completo
+
+### Componentes Principales
+1. **Servidor MCP Universitario** (base: día 3)
+2. **Cliente MCP con Workflows** (base: día 4)
+3. **Orquestador Multi-Agente** (base: día 5)
+4. **Sistema de Monitoreo y Logging**
+5. **API Gateway y Autenticación**
+6. **Base de Datos Unificada**
+
+---
+
+## 📋 Plantillas Avanzadas para Desarrollo de Agentes MCP
 
 ## Servidor MCP Base
 

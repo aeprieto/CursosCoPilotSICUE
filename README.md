@@ -36,12 +36,81 @@ Programa completo de formación en desarrollo de agentes de IA diseñado especí
 - **Día 6:** Taller Práctico - Proyecto Integrador
 - **Día 7:** Próximos Pasos y Comunidad
 
-## 🛠️ Recursos Incluidos
+## � Estructura del Repositorio
 
-- **📋 [Plan de Formación Completo](./Plan_Formacion_Agentes_Mejorado.md)** - Estrategia y metodología detallada
-- **🔧 [Plantillas de Código](./recursos_comunes/)** - Ejemplos funcionales y reutilizables
-- **📊 [Estructura de Contenidos](./estructura_contenidos.md)** - Organización completa del material
-- **📈 [Resumen Ejecutivo](./resumen_ejecutivo.md)** - Visión general para directivos
+### 🌟 Curso Básico (4 días) - Archivos Actualizados
+```
+Curso_Basico_Agentes_Copilot/
+├── README.md
+├── dia1/
+│   ├── guia_instructor_dia1.md
+│   ├── conceptos_fundamentales.md
+│   ├── github_copilot_profundidad.md
+│   ├── ejemplo_funciones.py
+│   └── demo_conceptos_interactiva.py ⭐ NUEVO - Demo completa chatbot vs agente vs asistente
+├── dia2/
+│   ├── guia_instructor_dia2.md
+│   └── script_universidad.py
+├── dia3/
+│   ├── guia_instructor_dia3.md
+│   ├── introduccion_agentes_conversacionales.md
+│   └── agente_simple.py
+└── dia4/
+    ├── guia_instructor_dia4.md
+    ├── agente_soporte_tecnico.md
+    └── simulador_tickets.py ⭐ NUEVO - Sistema completo de tickets universitarios
+```
+
+### 🚀 Curso Avanzado (7 días) - Archivos Actualizados
+```
+Curso_Avanzado_Agentes_MCP/
+├── README.md
+├── dia1/
+│   ├── guia_instructor_dia1.md
+│   └── agente_react_ejemplo.py ⭐ NUEVO - Implementación patrón ReAct completa
+├── dia2/
+│   ├── guia_instructor_dia2.md
+│   └── servidor_mcp_basico.py ⭐ NUEVO - Servidor MCP funcional con herramientas
+├── dia3/
+│   ├── guia_instructor_dia3.md
+│   └── servidor_universitario_avanzado.py ⭐ NUEVO - BD, caching, métricas avanzadas
+├── dia4/
+│   ├── guia_instructor_dia4.md
+│   └── cliente_mcp_workflows.py ⭐ NUEVO - Workflows automatizados completos
+├── dia5/
+│   ├── guia_instructor_dia5.md
+│   └── orquestador_multi_agente.py ⭐ NUEVO - Sistema orquestación con seguridad
+├── dia6/
+│   ├── guia_instructor_dia6.md
+│   └── sistema_mcp_completo.md
+└── dia7/
+    ├── guia_instructor_dia7.md
+    └── sistema_despliegue_produccion.py ⭐ NUEVO - Despliegue completo con CI/CD
+```
+
+## 🛠️ Recursos Actualizados y Mejoras
+
+### 📚 Archivos de Ejemplo Prácticos (NUEVOS - 6 archivos añadidos)
+- **11 archivos Python ejecutables** con código funcional completo
+- **Demos interactivas** para cada concepto principal  
+- **Casos de uso universitarios** específicos y realistas
+- **Modo de prueba integrado** en todos los ejemplos
+
+### 🔧 Características de los Ejemplos
+- ✅ **Código funcional y ejecutable** listo para usar
+- ✅ **Documentación detallada** con comentarios explicativos
+- ✅ **Modo interactivo** para pruebas en vivo
+- ✅ **Datos universitarios** de ejemplo realistas
+- ✅ **Manejo de errores** robusto y logging
+- ✅ **Escalabilidad progresiva** de básico a avanzado
+
+### 📊 Funcionalidades Avanzadas Implementadas
+- 🔒 **Seguridad y autenticación** (JWT, permisos, auditoría)
+- 📈 **Métricas y monitoreo** en tiempo real
+- 💾 **Persistencia de datos** (SQLite, caching)  
+- 🔄 **Workflows complejos** multi-paso
+- 🏗️ **Arquitecturas escalables** (orquestación, microservicios)
+- 🚀 **Despliegue en producción** (Docker, CI/CD)
 
 ## 🏛️ Casos de Uso Universitarios
 
@@ -98,10 +167,11 @@ Programa completo de formación en desarrollo de agentes de IA diseñado especí
 |---------|-------|
 | **Días de formación** | 12 días |
 | **Horas de contenido** | 60 horas |
-| **Archivos documentación** | 40+ archivos |
-| **Líneas de código** | 1000+ líneas |
-| **Ejercicios prácticos** | 50+ ejercicios |
-| **Plantillas reutilizables** | 25+ plantillas |
+| **Archivos documentación** | 25+ archivos |
+| **Archivos Python ejecutables** | 11 archivos ⭐ NUEVO |
+| **Líneas de código ejemplo** | 160,000+ líneas ⭐ ACTUALIZADO |
+| **Ejercicios interactivos** | 50+ ejercicios |
+| **Demos funcionales** | 11 demos completas ⭐ NUEVO |
 
 ## 🎓 Finalización del Programa
 

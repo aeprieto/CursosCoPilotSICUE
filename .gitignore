@@ -79,3 +79,6 @@ secrets/
 # Archivos de sistema
 Thumbs.db
 ehthumbs.db
+
+# Scripts de shell (excluir para seguridad)
+*.sh
