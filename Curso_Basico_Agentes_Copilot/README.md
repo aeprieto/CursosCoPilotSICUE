@@ -2,7 +2,7 @@
 
 ## 🎯 Información General
 
-**Duración:** 4 días (20 horas) - 5 horas por día ⭐ ACTUALIZADO
+**Duración:** 4 días (20 horas) - 5 horas por día
 **Modalidad:** Presencial/Híbrida
 **Dirigido a:** Personal del Servicio de Informática con conocimientos básicos de programación
 
@@ -19,10 +19,10 @@
 
 | Día | Tema Principal | Duración | Archivos |
 |-----|----------------|----------|----------|
-| **Día 1** | Fundamentos y Configuración | 5h | `dia1/` ⭐ 4 archivos |
-| **Día 2** | Desarrollo Asistido con Copilot | 5h | `dia2/` ⭐ 2 archivos |
-| **Día 3** | Agentes Simples y APIs | 5h | `dia3/` ⭐ 3 archivos |
-| **Día 4** | Agentes para Soporte Técnico | 5h | `dia4/` ⭐ 3 archivos |
+| **Día 1** | Fundamentos y Configuración | 5h | `dia1/` - 5 archivos |
+| **Día 2** | Desarrollo Asistido con Copilot | 5h | `dia2/` - 2 archivos |
+| **Día 3** | Agentes Simples y APIs | 5h | `dia3/` - 3 archivos |
+| **Día 4** | Agentes para Soporte Técnico | 5h | `dia4/` - 3 archivos |
 
 ## 🎯 Objetivos de Aprendizaje
 
@@ -34,7 +34,7 @@ Al finalizar este curso, los participantes serán capaces de:
 4. **Desarrollar soluciones específicas** para el contexto universitario
 5. **Implementar buenas prácticas** de desarrollo asistido por IA
 
-## 📂 Estructura Detallada del Curso ⭐ ACTUALIZADA
+## 📂 Estructura Detallada del Curso
 
 ```
 dia1/ - Fundamentos y GitHub Copilot
@@ -42,7 +42,7 @@ dia1/ - Fundamentos y GitHub Copilot
 ├── conceptos_fundamentales.md        # Teoría: IA, chatbots, agentes, asistentes
 ├── github_copilot_profundidad.md     # Tutorial avanzado de GitHub Copilot
 ├── ejemplo_funciones.py              # Ejercicios básicos con Copilot
-└── demo_conceptos_interactiva.py     # ⭐ NUEVO: Demo interactiva completa
+└── demo_conceptos_interactiva.py     # Demo interactiva completa
 
 dia2/ - Desarrollo Asistido con Copilot
 ├── guia_instructor_dia2.md           # Programación asistida avanzada
@@ -56,22 +56,22 @@ dia3/ - Agentes Simples y APIs
 dia4/ - Agentes para Soporte Técnico
 ├── guia_instructor_dia4.md           # Agentes especializados en IT
 ├── agente_soporte_tecnico.md         # Plantilla de agente de soporte
-└── simulador_tickets.py              # ⭐ NUEVO: Sistema completo de tickets
+└── simulador_tickets.py              # Sistema completo de tickets
 ```
 
-## 🆕 Archivos de Ejemplo Nuevos
+## 🔧 Archivos de Ejemplo Prácticos
 
 ### `demo_conceptos_interactiva.py` (Día 1)
 - **Demostración completa** de diferencias entre chatbot, agente y asistente
 - **Modo interactivo** para pruebas en vivo durante clase
 - **Ejemplos universitarios** específicos (estudiantes, cursos, reservas)
-- **28,000+ líneas** de código funcional y documentado
+- **Código funcional** y completamente documentado
 
 ### `simulador_tickets.py` (Día 4)  
 - **Sistema completo** de gestión de tickets universitarios
 - **Interfaz de línea de comandos** para demostraciones
 - **Funcionalidades reales**: crear, buscar, actualizar tickets
-- **5,000+ líneas** con manejo de errores y logging
+- **Manejo profesional** de errores y logging
 
 ### Características de Todos los Ejemplos
 - ✅ **Ejecutables inmediatamente** sin configuración adicional
@@ -106,10 +106,10 @@ La finalización del curso se basa en la **asistencia y participación activa** 
 
 ## 📞 Soporte
 
-- Canal interno `#curso-basico-agentes`
-- Office hours: Martes y jueves 16:00-17:00
-- Email del instructor: [correo]
+- **Documentación**: Guías detalladas incluidas en cada carpeta `diaX/`
+- **Ejemplos prácticos**: Código ejecutable en cada sesión
+- **Repositorio**: [GitHub Issues](https://github.com/aeprieto/CursosCoPilotSICUE/issues) para dudas técnicas
 
 ---
 
-*Curso desarrollado específicamente para el Servicio de Informática de la Universidad*
+*Curso desarrollado específicamente para programas de formación en IA universitaria - Actualizado diciembre 2024*
