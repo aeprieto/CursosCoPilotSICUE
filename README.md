@@ -1,6 +1,6 @@
 # 🎓 Plan de Formación en Agentes de IA para Personal Universitario
 
-[![Estado del Proyecto](https://img.shields.io/badge/Estado-Revisado-success)](./PROYECTO_COMPLETADO.md)
+[![Estado del Proyecto](https://img.shields.io/badge/Estado-Activo-success)](https://github.com/aeprieto/CursosCoPilotSICUE)
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)](./LICENSE)
 [![Contribuciones](https://img.shields.io/badge/Contribuciones-Bienvenidas-brightgreen.svg)](./CONTRIBUTING.md)
 
@@ -36,7 +36,7 @@ Programa completo de formación en desarrollo de agentes de IA diseñado especí
 - **Día 6:** Taller Práctico - Proyecto Integrador
 - **Día 7:** Próximos Pasos y Comunidad
 
-## � Estructura del Repositorio
+## 🗂️ Estructura del Repositorio
 
 ### 🌟 Curso Básico (4 días) - Archivos Actualizados
 ```
@@ -50,11 +50,11 @@ Curso_Basico_Agentes_Copilot/
 │   └── demo_conceptos_interactiva.py ⭐ NUEVO - Demo completa chatbot vs agente vs asistente
 ├── dia2/
 │   ├── guia_instructor_dia2.md
-│   └── script_universidad.py
+│   └── script_universidad.py ⭐ NUEVO - Script completo gestión universitaria
 ├── dia3/
 │   ├── guia_instructor_dia3.md
 │   ├── introduccion_agentes_conversacionales.md
-│   └── agente_simple.py
+│   └── agente_simple.py ⭐ NUEVO - Agente conversacional completo
 └── dia4/
     ├── guia_instructor_dia4.md
     ├── agente_soporte_tecnico.md
@@ -110,7 +110,7 @@ Curso_Avanzado_Agentes_MCP/
 - 💾 **Persistencia de datos** (SQLite, caching)  
 - 🔄 **Workflows complejos** multi-paso
 - 🏗️ **Arquitecturas escalables** (orquestación, microservicios)
-- 🚀 **Despliegue en producción** (Docker, CI/CD)
+- 🚀 **Despliegue en producción** (Docker, logging avanzado)
 
 ## 🏛️ Casos de Uso Universitarios
 
@@ -140,37 +140,41 @@ Curso_Avanzado_Agentes_MCP/
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/[tu-usuario]/CursosCoPIlotSICUE.git
-   cd CursosCoPIlotSICUE
+   git clone https://github.com/aeprieto/CursosCoPilotSICUE.git
+   cd CursosCoPilotSICUE
    ```
 
 2. **Revisar prerequisitos:**
-   - [Curso Básico](./Curso_Basico_Agentes_Copilot/README.md#prerequisitos)
-   - [Curso Avanzado](./Curso_Avanzado_Agentes_MCP/README.md#prerequisitos)
+   - [Curso Básico](./Curso_Basico_Agentes_Copilot/README.md#prerrequisitos)
+   - [Curso Avanzado](./Curso_Avanzado_Agentes_MCP/README.md#prerrequisitos-obligatorios)
 
 3. **Configurar entorno:**
    ```bash
-   # Para ejercicios básicos
-   pip install -r Curso_Basico_Agentes_Copilot/recursos/requirements.txt
+   # Crear entorno virtual
+   python -m venv venv
+   source venv/bin/activate  # En Windows: venv\Scripts\activate
    
-   # Para desarrollo avanzado MCP
-   pip install -r recursos_comunes/plantillas_avanzadas/requirements.txt
+   # Instalar dependencias básicas
+   pip install openai anthropic requests python-dotenv
+   
+   # Para ejemplos avanzados MCP
+   pip install fastapi uvicorn sqlalchemy
    ```
 
 4. **Comenzar formación:**
-   - Instructores: Revisar [Plan de Formación](./Plan_Formacion_Agentes_Mejorado.md)
+   - Instructores: Revisar guías en cada carpeta `/diaX/guia_instructor_diaX.md`
    - Participantes: Empezar con [Curso Básico](./Curso_Basico_Agentes_Copilot/dia1/)
 
 ## 📊 Métricas del Proyecto
 
 | Métrica | Valor |
 |---------|-------|
-| **Días de formación** | 12 días |
-| **Horas de contenido** | 60 horas |
-| **Archivos documentación** | 25+ archivos |
+| **Días de formación** | 11 días |
+| **Horas de contenido** | 55 horas |
+| **Archivos documentación** | 20+ archivos |
 | **Archivos Python ejecutables** | 11 archivos ⭐ NUEVO |
-| **Líneas de código ejemplo** | 160,000+ líneas ⭐ ACTUALIZADO |
-| **Ejercicios interactivos** | 50+ ejercicios |
+| **Líneas de código ejemplo** | 4,500+ líneas ⭐ ACTUALIZADO |
+| **Ejercicios interactivos** | 11+ ejercicios |
 | **Demos funcionales** | 11 demos completas ⭐ NUEVO |
 
 ## 🎓 Finalización del Programa
@@ -195,25 +199,25 @@ Este proyecto está bajo la Licencia MIT - ver [LICENSE](./LICENSE) para detalle
 
 ## 🙏 Reconocimientos
 
-- **GitHub Copilot** por acelerar el desarrollo
-- **Claude/Anthropic** por soporte en MCP
-- **Comunidad Open Source** por herramientas y frameworks
-- **Personal Universitario** por feedback y casos de uso reales
+- **GitHub Copilot** por acelerar el desarrollo y generar ejemplos prácticos
+- **Anthropic Claude** por soporte en desarrollo MCP y documentación
+- **Comunidad Open Source** por herramientas y frameworks utilizados
+- **Programa SICUE** por el contexto y casos de uso universitarios reales
 
 ## 📞 Soporte
 
 - **Documentación**: Revisar archivos README de cada curso
-- **Issues**: Usar [GitHub Issues](https://github.com/[tu-usuario]/CursosCoPIlotSICUE/issues)
-- **Discusiones**: [GitHub Discussions](https://github.com/[tu-usuario]/CursosCoPIlotSICUE/discussions)
+- **Issues**: Usar [GitHub Issues](https://github.com/aeprieto/CursosCoPilotSICUE/issues)
+- **Discusiones**: [GitHub Discussions](https://github.com/aeprieto/CursosCoPilotSICUE/discussions)
 
 ## 🔗 Enlaces Útiles
 
-- **📋 [Estado del Proyecto](./PROYECTO_COMPLETADO.md)** - Información detallada de completitud
-- **🎯 [Plan Estratégico](./Plan_Formacion_Agentes_Mejorado.md)** - Metodología y roadmap
-- **🏗️ [Arquitectura Técnica](./recursos_comunes/plantillas_avanzadas/)** - Ejemplos de implementación
+- **� [Curso Básico](./Curso_Basico_Agentes_Copilot/README.md)** - Introducción con GitHub Copilot
+- **🚀 [Curso Avanzado](./Curso_Avanzado_Agentes_MCP/README.md)** - Desarrollo con MCP
+- **🤝 [Guía de Contribución](./CONTRIBUTING.md)** - Cómo contribuir al proyecto
 
 ---
 
-**📅 Última actualización:** 30 de junio de 2025  
-**✅ Estado:** Proyecto completado y listo para implementación  
-**🎯 Mantenido por:** Comunidad de desarrolladores universitarios
+**📅 Última actualización:** 30 de diciembre de 2024  
+**✅ Estado:** Proyecto completado y actualizado con ejemplos prácticos  
+**🎯 Mantenido por:** [Álvaro E. Prieto](https://github.com/aeprieto) y comunidad SICUE
